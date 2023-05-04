@@ -1,11 +1,11 @@
 // Place your key bindings in this file to override the defaults
 [
     {
-        "key": "shift+space",
+        "key": "ctrl+alt+space",
         "command": "workbench.action.toggleStatusbarVisibility"
     },
     {
-        "key": "shift+oem_5",
+        "key": "ctrl+alt+enter",
         "command": "workbench.action.toggleActivityBarVisibility"
     }
 ]
